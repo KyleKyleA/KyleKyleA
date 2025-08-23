@@ -1,5 +1,5 @@
 # 💫 What I'm up to right now:
-🔭 I’m currently working on a Personal Website using HTML and CSS later on, either using JavaScript or frameworks<br>🌱
+🔭 I’m currently working on a Personal Website using HTML and CSS later on, either using JavaScript or frameworks<br>
 
 
 
