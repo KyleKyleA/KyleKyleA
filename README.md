@@ -2,8 +2,8 @@
 My Name's Kyle, and I'm currently a computer science student studying at Durham College, based in Ajax , Ontario
 
 # 💫 What I'm up to right now:
-🔭 I’m currently working on a Personal Website using HTML and CSS later on, either using NODE JS or REACT JS for backend
-   To-Do List using HTML, CSS, JavaScript for Front end, back end - node.JS
+🔭 I’m currently working on a class project using C#, XAML, .NET framwork, and SQL to manage a vehicle management system 
+   Along with that creating a interactive webpage with a login and registeration page to access a students grade portal using PHP, HTML, and PSQL 
 
 Outside of coding, you can see me playing lots of volleyball and hitting the gym, or spending time with friends. I also enjoy learning new concepts or doing content creation making video's and sharing them 
 with my fellow friends
