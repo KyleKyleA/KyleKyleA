@@ -2,7 +2,7 @@
 My Name's Kyle, and I'm currently a computer science student studying at Durham College, based in Ajax , Ontario
 
 # 💫 What I'm up to right now:
-🔭 AutoVerse Music Player (HTML, CSS, Javascript, Python, PSQL)
+Builing PaceFields (startup)
 
 Outside of coding, you can see me playing lots of volleyball and hitting the gym, or spending time with friends. I also enjoy learning new concepts or doing content creation making video's and sharing them 
 with my fellow friends
