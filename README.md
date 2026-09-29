@@ -2,7 +2,7 @@
 
 ### Aspiring Software Engineer | Full Stack / ML AI Curious
 
-- 🔭 I'm currently working on **🚀 PaceFields — Startu
+- 🔭 I'm currently working on **🚀 PaceFields — Startup
 🧬 Diabetes Risk Predictor — Machine Learning Project**
 
 - 🌱 I'm currently learning **Full-Stack Development with Next.js & TypeScript.
