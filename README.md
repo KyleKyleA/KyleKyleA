@@ -41,7 +41,7 @@ Video Editing & Content Creation.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/KyleKyleA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="KyleKyleA" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Kyle Angeles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kyle Angeles" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/kyle-angeles-b07ba7315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kyle Angeles" height="30" width="40" /></a>
 <a href="https://kaggle.com/kyleangeles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kyleangeles" height="30" width="40" /></a>
 <a href="https://instagram.com/kai__topluto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kai__topluto" height="30" width="40" /></a>
 </p>
